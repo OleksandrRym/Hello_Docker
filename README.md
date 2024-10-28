@@ -19,7 +19,7 @@ After in ide terminal write "mvn clean package"
 
 ### Open the terminal and select your project folder 
 ```
-docker build -t demo-dpcker .   
+docker build -t demo-docker .   
 ```
 ### Check whether the image is build
 ```
