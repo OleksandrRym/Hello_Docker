@@ -1,4 +1,4 @@
-## Hello Docker!
+## Hello Docker 🐳
 ## Today I will show you how to create an image and upload it to DockerHub in 2 steps
 
 
