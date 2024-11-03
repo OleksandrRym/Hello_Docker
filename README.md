@@ -62,4 +62,4 @@ This command uploads your image to your account on DockerHub.
 docker pull nickname/demo-docker                    // Pull
 ```
 This command retrieves the image from DockerHub to your local machine.
-```
+
